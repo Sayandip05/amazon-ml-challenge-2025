@@ -560,10 +560,10 @@ Want to discuss ML, collaborate, or just chat?
 
 
 **Individual Connect:**
-- Subham: [LinkedIn](#) | [GitHub](#https://github.com/subham2023)
-- Sayandip: [LinkedIn](#) | [GitHub](#https://github.com/Sayandip05)
-- Abhishek: [LinkedIn](#) | [GitHub](#https://github.com/Abhishek-Royy)
-- Debabrata: [LinkedIn](#) | [GitHub](#https://github.com/Debabrata7719)
+- Subham: [GitHub](#https://github.com/subham2023)
+- Sayandip: [GitHub](#https://github.com/Sayandip05)
+- Abhishek: [GitHub](#https://github.com/Abhishek-Royy)
+- Debabrata: [GitHub](#https://github.com/Debabrata7719)
 
 ---
 
