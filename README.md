@@ -40,7 +40,7 @@ This repository contains our **Rank 183** solution for the **Amazon ML Challenge
 
 | Metric | Value |
 |--------|-------|
-| **Final Rank** | 183 / 1000+ teams |
+| **Final Rank** | 183 / 10000+ teams |
 | **Final Score** | 47.07 SMAPE |
 | **Competition Duration** | 48 hours (Oct 11-13, 2025) |
 | **Dataset Size** | 150K total samples |
@@ -352,8 +352,8 @@ Despite the challenges:
 
 ### ✨ Achievements
 
-1. ✅ **Ranked 183/1000+** using free resources
-2. ✅ **Beat 80% of teams** including many from better colleges
+1. ✅ **Ranked 183/10000+** using free resources
+2. ✅ **Beat 90% of teams** including many from better colleges
 3. ✅ **Built production-grade code** in 48 hours
 4. ✅ **Implemented complex multimodal system** as undergrads
 5. ✅ **Learned more in 2 days** than in 2 months of classes
@@ -368,7 +368,6 @@ Despite the challenges:
 - No experience with ensembles
 
 **After Hackathon:**
-- ✅ End-to-end ML pipeline expertise
 - ✅ Multimodal AI understanding
 - ✅ Production deployment skills
 - ✅ Competitive ML mindset
@@ -559,13 +558,12 @@ NUM_EPOCHS = 15  # Instead of 8
 
 Want to discuss ML, collaborate, or just chat?
 
-**Team Email:** codecrusher2025@gmail.com
 
 **Individual Connect:**
-- Subham: [LinkedIn](#) | [GitHub](#)
-- Sayandip: [LinkedIn](#) | [GitHub](#)
-- Abhishek: [LinkedIn](#) | [GitHub](#)
-- Debabrata: [LinkedIn](#) | [GitHub](#)
+- Subham: [LinkedIn](#) | [GitHub](#https://github.com/subham2023)
+- Sayandip: [LinkedIn](#) | [GitHub](#https://github.com/Sayandip05)
+- Abhishek: [LinkedIn](#) | [GitHub](#https://github.com/Abhishek-Royy)
+- Debabrata: [LinkedIn](#) | [GitHub](#https://github.com/Debabrata7719)
 
 ---
 
