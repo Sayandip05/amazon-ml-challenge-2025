@@ -137,13 +137,13 @@ We didn't just feed raw data. We created smart features:
 
 ### 🏆 Final Standings
 
-| Rank | Team | Institution | Score | Gap from #1 |
-|------|------|-------------|-------|-------------|
-| 1 | Zodiac | NIT Durgapur | 41.29 | - |
-| 2 | Royal_recruits | IIIT Delhi | 41.74 | +0.45 |
-| 3 | Bezzzos | IIT ISM Dhanbad | 41.99 | +0.70 |
+| Rank | Team | Institution | 
+|------|------|-------------|
+| 1 | MessI | Indian Institute of Technology (IIT), Madras |
+| 2 | Zenith | Indian Institute of Engineering Science and Technology (IIEST), Shibpur | 
+| 3 | 00 Team_Rocket | Indraprastha Institute of Information Technology (IIIT), Delhi |
 | ... | ... | ... | ... | ... |
-| **183** | **Code Crusher** | **Brainware University** | **47.07** | **+5.78** |
+| **183** | **Code Crusher** | **Brainware University** |
 
 ### 📈 Our Performance Analysis
 
