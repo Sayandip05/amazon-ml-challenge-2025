@@ -508,41 +508,6 @@ NUM_EPOCHS = 15  # Instead of 8
 # Average predictions across augmented versions
 ```
 
----
-
-## 👥 Team Code Crusher
-
-<table>
-  <tr>
-    <td align="center">
-      <b>Subham Acherjee</b><br>
-      Team Lead & ML Engineer<br>
-      <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
-    </td>
-    <td align="center">
-      <b>Sayandip Bar</b><br>
-      Feature Engineering<br>
-      <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
-    </td>
-    <td align="center">
-      <b>Abhishek Roy</b><br>
-      Deep Learning<br>
-      <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
-    </td>
-    <td align="center">
-      <b>Debabrata Dey</b><br>
-      Ensemble & Optimization<br>
-      <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
-    </td>
-  </tr>
-</table>
-
-**Institution:** Brainware University, Kolkata  
-**Department:** Computer Science & Engineering  
-**Year:** 2024-25
-
----
-
 ## 🙏 Acknowledgments
 
 - **Unstop** for organizing this amazing challenge
@@ -557,19 +522,19 @@ NUM_EPOCHS = 15  # Instead of 8
 ## 📞 Contact & Connect
 
 Want to discuss ML, collaborate, or just chat?
+
 ## 👥 Team Code Crusher
 
 | Name | Role | GitHub |
 |------|------|--------|
-| **Subham Acherjee** | Team Lead & ML Engineer |
-| **Sayandip Bar** | Feature Engineering | 
-| **Abhishek Roy** | Deep Learning |
-| **Debabrata Dey** | Ensemble & Optimization |
+| **Subham Acherjee** | Team Lead & ML Engineer | [GitHub](https://github.com/subham2023) |
+| **Sayandip Bar** | Feature Engineering | [GitHub](https://github.com/Sayandip05) |
+| **Abhishek Roy** | Deep Learning | [GitHub](https://github.com/Abhishek-Royy) |
+| **Debabrata Dey** | Ensemble & Optimization | [GitHub](https://github.com/Debabrata7719) |
 
 **Institution:** Brainware University, Kolkata  
 **Department:** Computer Science & Engineering  
 **Year:** 2024–25
-
 
 ## 🎯 Future Work
 
