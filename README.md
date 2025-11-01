@@ -557,15 +557,19 @@ NUM_EPOCHS = 15  # Instead of 8
 ## 📞 Contact & Connect
 
 Want to discuss ML, collaborate, or just chat?
+## 👥 Team Code Crusher
 
+| Name | Role | GitHub |
+|------|------|--------|
+| **Subham Acherjee** | Team Lead & ML Engineer | [GitHub](https://github.com/subham2023) |
+| **Sayandip Bar** | Feature Engineering | [GitHub](https://github.com/Sayandip05) |
+| **Abhishek Roy** | Deep Learning | [GitHub](https://github.com/Abhishek-Royy) |
+| **Debabrata Dey** | Ensemble & Optimization | [GitHub](https://github.com/Debabrata7719) |
 
-**Individual Connect:**
-- Subham: [GitHub](https://github.com/subham2023)
-- Sayandip: [GitHub](https://github.com/Sayandip05)
-- Abhishek: [GitHub](https://github.com/Abhishek-Royy)
-- Debabrata: [GitHub](https://github.com/Debabrata7719)
+**Institution:** Brainware University, Kolkata  
+**Department:** Computer Science & Engineering  
+**Year:** 2024–25
 
----
 
 ## 🎯 Future Work
 
