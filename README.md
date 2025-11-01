@@ -3,7 +3,6 @@
 
 <div align="center">
 
-![Banner](assets/banner.png)
 
 [![Competition](https://img.shields.io/badge/Competition-Amazon%20ML%20Challenge-FF9900?style=for-the-badge&logo=amazon)](https://unstop.com)
 [![Rank](https://img.shields.io/badge/Rank-183%2F1000%2B-blue?style=for-the-badge)](https://unstop.com)
