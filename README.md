@@ -561,10 +561,10 @@ Want to discuss ML, collaborate, or just chat?
 
 | Name | Role | GitHub |
 |------|------|--------|
-| **Subham Acherjee** | Team Lead & ML Engineer | [GitHub](https://github.com/subham2023) |
-| **Sayandip Bar** | Feature Engineering | [GitHub](https://github.com/Sayandip05) |
-| **Abhishek Roy** | Deep Learning | [GitHub](https://github.com/Abhishek-Royy) |
-| **Debabrata Dey** | Ensemble & Optimization | [GitHub](https://github.com/Debabrata7719) |
+| **Subham Acherjee** | Team Lead & ML Engineer |
+| **Sayandip Bar** | Feature Engineering | 
+| **Abhishek Roy** | Deep Learning |
+| **Debabrata Dey** | Ensemble & Optimization |
 
 **Institution:** Brainware University, Kolkata  
 **Department:** Computer Science & Engineering  
